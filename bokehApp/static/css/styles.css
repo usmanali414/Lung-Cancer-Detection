@@ -1,0 +1,25 @@
+.slick-header-column {
+    background-color: lightblue !important;
+    background-image: none !important;
+    }
+
+.slick-row {
+    background-color: white !important;
+    background-image: none !important;
+    color:black !important;
+}
+
+.bk-cell-index {
+    background-color: white !important;
+    background-image: none !important;
+    color:black !important;
+}
+h2 .metric-heading{
+    margin-left: 100px;
+}
+h2 .cmatrix-heading{
+  margin-left: 100px;
+}
+.heading-title1{
+    width:300px;
+}
