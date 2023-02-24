@@ -11,12 +11,12 @@ pandas==1.0.5
 tensorflow==2.4.1
 keras==2.4.3
 
-
+After installing the packages. Clone this repo and Run the command <"bokeh serve bokehApp"> to run the server on local default browser  .
 ## CT Scans of Lungs
 ![Benign](Bengin_case.jpg)
 ![Malignant](Malignant_case.jpg)
 ![Normal](Normal_case.jpg)
 
-After installing the packages. Clone this repo and Run the command to run the server on local default browser "bokeh serve bokehApp" .
+
 
 
