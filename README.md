@@ -13,9 +13,9 @@ keras==2.4.3
 
 
 ## CT Scans of Lungs
-![Benign](Bengin_case.jpg)<br />
-![Malignant](Malignant_case.jpg)<br />
-![Normal](Normal_case.jpg)<br />
+![Benign](Bengin_case.jpg)
+![Malignant](Malignant_case.jpg)
+![Normal](Normal_case.jpg)
 
 After installing the packages. Clone this repo and Run the command to run the server on local default browser "bokeh serve bokehApp" .
 
